@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1780642582698",
+    "amount": 1000,
+    "category": "Entertainment",
+    "date": "2026-06-01",
+    "note": "movies"
+  },
+  {
+    "id": "1780642633385",
+    "amount": 1500,
+    "category": "Food",
+    "date": "2026-06-03",
+    "note": "ordered food "
+  },
+  {
+    "id": "1780642853347",
+    "amount": 1750,
+    "category": "Other",
+    "date": "2026-06-04",
+    "note": "shopping at mall"
+  },
+  {
+    "id": "1780643397687",
+    "amount": 4500,
+    "category": "Bills",
+    "date": "2026-06-03",
+    "note": "bill"
+  },
+  {
+    "id": "1780643422617",
+    "amount": 400,
+    "category": "Transport",
+    "date": "2026-06-04",
+    "note": "train"
+  }
+]
