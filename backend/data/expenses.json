@@ -33,5 +33,12 @@
     "category": "Transport",
     "date": "2026-06-04",
     "note": "train"
+  },
+  {
+    "id": "1780720844729",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-06-05",
+    "note": "pizza"
   }
 ]
