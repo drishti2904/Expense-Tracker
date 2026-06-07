@@ -8,7 +8,9 @@ const PORT = process.env.PORT || 5000;
 const DATA_FILE = path.join(__dirname, 'data', 'expenses.json');
 const VALID_CATEGORIES = ['Food', 'Transport', 'Bills', 'Entertainment', 'Other'];
 
-app.use(cors());
+app.use(cors({
+  origin: 'https://expense-tracker-seven-kohl-40.vercel.app'
+}));
 app.use(express.json());
 
 const readData = () => {
