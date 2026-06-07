@@ -10,11 +10,11 @@ SpendWise is a full-stack Personal Expense Tracker built using React and Node.js
 
 ### Frontend
 
-https://your-frontend-url.vercel.app
+https://expense-tracker-seven-kohl-40.vercel.app
 
 ### Backend API
 
-https://your-backend-url.onrender.com
+https://spendwise-backend-jbxx.onrender.com
 
 
 
