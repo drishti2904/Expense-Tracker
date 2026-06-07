@@ -3,7 +3,7 @@ import Dashboard from './components/Dashboard.jsx';
 import ExpenseForm from './components/ExpenseForm.jsx';
 import ExpenseList from './components/ExpenseList.jsx';
 
-const API_URL = 'http://localhost:5000/api/expenses';
+const API_URL = 'https://spendwise-backend-jbxx.onrender.com/api/expenses';
 
 const BUDGETS = {
   Food: 5000,
